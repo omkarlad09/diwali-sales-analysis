@@ -17,3 +17,9 @@ This project analyzes Diwali sales data to find insights about customer behavior
 
 📁 Dataset
 Diwali Sales Data.csv
+
+**Omkar Lad**
+📊 Aspiring Data Analyst
+
+🔗 GitHub: https://github.com/omkarlad09
+🔗 linkedin: www.linkedin.com/in/omkar-lad07
